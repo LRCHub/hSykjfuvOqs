@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今、恋をしている (Instrumental)",
+  "base_artist": "nearly-equal-joy",
+  "createdAt": "2026-03-27T13:06:45.073337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今、恋をしている",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_今、恋をしている_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今、恋をしている (Instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_今、恋をしている_(Instrumental)_≒JOY.lrc"
+    }
+  ]
+}
